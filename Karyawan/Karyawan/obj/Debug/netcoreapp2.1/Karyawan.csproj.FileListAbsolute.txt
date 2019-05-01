@@ -1,0 +1,11 @@
+D:\Karyawan\Karyawan\Karyawan\bin\Debug\netcoreapp2.1\Karyawan.deps.json
+D:\Karyawan\Karyawan\Karyawan\bin\Debug\netcoreapp2.1\Karyawan.runtimeconfig.json
+D:\Karyawan\Karyawan\Karyawan\bin\Debug\netcoreapp2.1\Karyawan.runtimeconfig.dev.json
+D:\Karyawan\Karyawan\Karyawan\bin\Debug\netcoreapp2.1\Karyawan.dll
+D:\Karyawan\Karyawan\Karyawan\bin\Debug\netcoreapp2.1\Karyawan.pdb
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.csprojAssemblyReference.cache
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.csproj.CoreCompileInputs.cache
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.AssemblyInfoInputs.cache
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.AssemblyInfo.cs
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.dll
+D:\Karyawan\Karyawan\Karyawan\obj\Debug\netcoreapp2.1\Karyawan.pdb

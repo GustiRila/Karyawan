@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Karyawan\\Karyawan\\Karyawan\\Karyawan.csproj": {}
+  },
+  "projects": {
+    "D:\\Karyawan\\Karyawan\\Karyawan\\Karyawan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Karyawan\\Karyawan\\Karyawan\\Karyawan.csproj",
+        "projectName": "Karyawan",
+        "projectPath": "D:\\Karyawan\\Karyawan\\Karyawan\\Karyawan.csproj",
+        "packagesPath": "C:\\Users\\GUSTI\\.nuget\\packages\\",
+        "outputPath": "D:\\Karyawan\\Karyawan\\Karyawan\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GUSTI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
